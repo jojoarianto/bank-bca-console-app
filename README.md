@@ -5,7 +5,7 @@ Console App for klikbca.com
 
 ![cek-saldo](https://user-images.githubusercontent.com/5858756/47617911-468d9680-daff-11e8-8420-6407f7cec682.gif)
 
-> List mutasi rekening
+> List mutasi rekening.
 
 ![mutasi](https://user-images.githubusercontent.com/5858756/47617918-5b6a2a00-daff-11e8-968b-3b210222e259.gif)
 
